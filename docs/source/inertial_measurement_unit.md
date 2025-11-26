@@ -5,20 +5,21 @@ Inertial Measurment Unit (IMU) adalah modul sensor yang biasanya digunakan untuk
 Orientasi biasanya direpresentasikan dalam format *Euler* atau *Quaternion*. Format *Euler* lebih mudah untuk dipahami sedangkan format *Quaternion* lebih mudah untuk komputasi, seperti rotasi, dan transformasi.
 
 Format *Euler*:  
-- *Roll* ($\phi$): rotasi terhadap sumbu X.
-- *Pitch* ($\theta$): rotasi terhadap sumbu Y.
-- *Yaw* ($\psi$): rotasi terhadap sumbu Z.
+- *Roll* (ϕ): rotasi terhadap sumbu X.
+- *Pitch* (θ): rotasi terhadap sumbu Y.
+- *Yaw* (ψ): rotasi terhadap sumbu Z.
 
 Mungkin paling gampang untuk memahami apa itu IMU adalah sensor untuk mengukur sudut.
 
+![Euler](assets/euler.gif)
 
 ## Sensor Penyusun IMU
 
 IMU tidak bisa langsung mengukur orientasi/sudut.
 Di dalam modul IMU terdapat 3 jenis sensor:  
-- *Gyroscope*: mengukur kecepatan angular ($rad/s$).
-- *Accelerometer*: mengukur percepatan linear ($m/s^2$).
-- *Magnetometer*: mengukur medan magnet bumi ($\ \mu\text{T}$).
+- *Gyroscope*: mengukur kecepatan angular (*rad/s*).
+- *Accelerometer*: mengukur percepatan linear (*m/s²*).
+- *Magnetometer*: mengukur medan magnet bumi (*µT*).
 
 Setiap sensor tersebut bisa digunakan untuk menghitung sudut. Akan tetapi setiap jenis sensor tersebut memiliki kelebihan dan kekurangan masing-masing.
 

@@ -12,3 +12,4 @@ Sekarang belum ada isinya. Tapi nanti pasti ada.
    inertial_measurement_unit
    read_mpu6050
    communication_protocols
+   milestones/milestone1

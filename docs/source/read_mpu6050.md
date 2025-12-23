@@ -3,7 +3,7 @@
 MPU6050 menggunakan komunikasi I2C yang tipe komunikasi digital yang sangat mudah digunakan.
 
 ## Wokwi
-Pengukuran dan perhitungan bisa dilakukan secara simulasi melalui website [Wokwi](wokwi.com).
+Pengukuran dan perhitungan bisa dilakukan secara simulasi melalui website [Wokwi](https://wokwi.com).
 
 Langkah-langkah:
 - Pilih microcontroller ESP32 untuk simplifikasi.

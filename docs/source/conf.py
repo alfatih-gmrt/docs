@@ -18,8 +18,14 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.mathjax',
-    "sphinx_copybutton",
+    'sphinx.ext.viewcode',
+    'sphinx_copybutton',
     'myst_parser'
+]
+
+myst_enable_extensions = [
+    "dollarmath",
+    "amsmath",
 ]
 
 intersphinx_mapping = {
@@ -33,6 +39,8 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+pygments_style = 'friendly'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

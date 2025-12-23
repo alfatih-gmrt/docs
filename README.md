@@ -1,9 +1,16 @@
-Template for the Read the Docs tutorial
+Dokumentasi Al-Fatih, Gadjah Mada Robotic Team
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+RTFD: Read The F*cking Documentation!
 
-Read the tutorial here:
+readthedocs: https://alfatihgmrt.readthedocs.io/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Sebagai programmer, selalu usahakan tidak menggunakan AI. Jangan dikit-dikit tanya AI.  
+Dikit-dikit copas error kirim ke ChatGPT, apa ituu bro?  
+Ga bakal berkembang lu kalau apa-apa ChatGPT.
+
+READ THE F*CKING DOCUMENTATION
+
+---------------------------------------------
+
+I did it all for U. This is truly love, not just saying "I love You"🙂.

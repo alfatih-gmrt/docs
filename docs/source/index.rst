@@ -14,5 +14,5 @@ Sekarang belum ada isinya. Tapi nanti pasti ada.
    communication_protocols
    cli_ubuntu
 
-   milestones/index
-   ros2/index
+   milestones
+   ros2

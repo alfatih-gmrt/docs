@@ -2,6 +2,6 @@
    :maxdepth: 2
    :caption: Contents:
 
-   colcon
-   urdf
-   workspace
+   ros2/colcon
+   ros2/urdf
+   ros2/workspace

@@ -13,4 +13,11 @@ Sekarang belum ada isinya. Tapi nanti pasti ada.
    read_mpu6050
    communication_protocols
    cli_ubuntu
+
    milestones/milestone1
+   milestones/milestone2
+   milestones/milestone3
+
+   ros2/colcon
+   ros2/urdf
+   ros2/workspace
